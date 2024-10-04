@@ -12,19 +12,7 @@ body{
     width: 200px; ;
     height: 200px; ;
    }
- .t{
-    font-size: xx-large;
-    em
-   }
- .lh-b {
-    line-height: 2;
-   }
- .d {
-    color: rgb(7, 132, 205);
-    font-size: xx-large;
-    text-shadow: -1px 1px 0 rgb(25, 168, 220), -2px 2px 0 crimson, -3px 3px 0 crimson,
-      -4px 4px 0 rgb(20, 53, 220), -5px 5px 0 crimson, -6px 6px 0 crimson;
-   }
+ 
   
  
    
