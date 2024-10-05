@@ -2,17 +2,39 @@ body{
     background-image: url(https://png.pngtree.com/background/20230317/original/pngtree-watercolor-blue-marble-elegant-picture-image_2149384.jpg)
    }
  footer{
-    background-color: aqua;
+    background-color: rgb(39, 211, 211);
    }
- .member{
-    width: 370px; ;
-    height: 500px; ;
+   .box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .box div {
+    width: 100px;
+    height: 100px;
+  }
+  .member1{
+    width: 370px; 
+    height: 500px;
+   
+  
+    }
+  .member2{
+    width: 370px; 
+    height: 500px;
+    
+    
    }
  .logo{
-    width: 200px; ;
-    height: 200px; ;
+    width: 200px; 
+    height: 200px; 
+    
+    justify-content: center;
+    align-items: center;
    }
- 
+   .lh-b {
+    line-height: 2;
+  }
   
  
    
