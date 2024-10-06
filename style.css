@@ -13,29 +13,36 @@ body{
     width: 100px;
     height: 100px;
   }
-  .member1{
+  .member{
+    display: flex;
+    align-items: center;
     width: 370px; 
     height: 500px;
-   
-  
     }
-  .member2{
-    width: 370px; 
-    height: 500px;
-    
-    
-   }
  .logo{
     width: 200px; 
     height: 200px; 
-    
     justify-content: center;
     align-items: center;
    }
    .lh-b {
     line-height: 2;
   }
-  
+  .ul{
+    align-items:center;
+  }
+  .fotos{
+    display: flex;
+    justify-content: center;
+    width: 370px; 
+    height: 500px;
+  }
+.parent{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
  
    
  
